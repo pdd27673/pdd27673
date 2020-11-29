@@ -1,6 +1,6 @@
 ### Hey, Paul here 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-paul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paul-doho-702b82200/)](https://www.linkedin.com/in/paul-doho-702b82200/) [![Gmail Badge](https://img.shields.io/badge/-paul.doho.741@my.csun.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paul.doho.741@my.csun.edu)](paul.doho.741@my.csun.edu) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-doho-702b82200/) [![Gmail Badge](https://img.shields.io/badge/Paul-D14836?style=for-the-badge&logo=gmail&logoColor=white)](paul.doho.741@my.csun.edu) 
 
 
 Welcome to my GitHub profile 😄 .. As someone once told me: 'There are 10 types of people in the world. Those who get Binary and those who don't.'
