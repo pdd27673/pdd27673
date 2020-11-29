@@ -16,6 +16,7 @@ Welcome to my GitHub profile 😄 .. As someone once told me: 'There are 10 type
 ```javascript
 const paul = {
   pronouns: "he" | "his",
+  hobbies: ["Photography", "FPS Games", "Motorsport", "Audiobooks"],
   
   code: ["Javascript", "HTML", "CSS", "C++", "Python", "Java"],
   tools: ["React", "Node", "Boostrap", "Tensorflow", "VSCode", "Express"],
@@ -29,5 +30,8 @@ const paul = {
 
 ## GitHub Stat
 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pdd27673&layout=compact">
+
 ![Paul's github stats](https://github-readme-stats.vercel.app/api?username=pdd27673&show_icons=true&hide=stars,issues,contribs&theme=radical)
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pdd27673&layout=compact">
+
+
