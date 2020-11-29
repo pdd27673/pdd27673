@@ -16,10 +16,13 @@ Welcome to my GitHub profile 😄 .. As someone once told me: 'There are 10 type
 ```javascript
 const paul = {
   pronouns: "he" | "his",
-  code: [Javascript, HTML, CSS, C++, Python, Java],
-  tools: [React, Node, Boostrap, Tensorflow, VSCode, Express],
-  architecture: ["Progressive web applications", "Single page applications", "design system pattern"],
+  
+  code: ["Javascript", "HTML", "CSS", "C++", "Python", "Java"],
+  tools: ["React", "Node", "Boostrap", "Tensorflow", "VSCode", "Express"],
+  
   databases: ["mongo", "PostGres"],
+  
+  architecture: ["Progressive web applications", "Single page applications", "design system pattern"],
   misc: ["Firebase", "Socket.IO", "Django"]
 }
 ```
