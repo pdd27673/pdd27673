@@ -6,7 +6,7 @@
 Welcome to my GitHub profile 😄 .. As someone once told me: 'There are 10 types of people in the world. Those who get Binary and those who don't.'
 
 - 🔭 I’m currently working on a ***Yelp MERN project***
-- 🌱 I’m currently learning ***Sickit-Learning/NL***
+- 🌱 I’m currently learning ***Sickit-Learning/ML***
 - 🤔 I’m looking for help with **TensorFLow**
 - ⚡ Fun fact: ***I am an international student :)***
 
