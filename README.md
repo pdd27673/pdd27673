@@ -5,26 +5,31 @@
 
 Welcome to my GitHub profile 😄 .. As someone once told me: 'There are 10 types of people in the world. Those who get Binary and those who don't.'
 
-- 🔭 I’m currently working on a ***Yelp MERN project***
-- 🌱 I’m currently learning ***Sickit-Learning/ML***
-- 🤔 I’m looking for help with **TensorFLow**
-- ⚡ Fun fact: ***I am an international student :)***
+- 🔭 I’m currently working on a ***NextJs+TS ecommerce app***
+- 🌱 I’m currently learning ***Weight lighting***
+- 🤔 I’m looking for help with **AWS**
+- ⚡ Fun fact: ***I'm trillingual***
 
 
 ## More about me...
 
-```javascript
-const paul = {
+```typescript
+interface modernDeveloper {
+   pronouns: string;
+   hobbies: string[];
+   code: string[];
+   tools: string[];
+   databases: string[];
+}
+
+const paul: modernDeveloper = {
   pronouns: "he" | "his",
-  hobbies: ["Photography", "FPS Games", "Motorsport", "Audiobooks"],
+  hobbies: ["Photography", "FPS Gamsses", "Motorsport", "Audiobooks"],
   
-  code: ["Javascript", "HTML", "CSS", "C++", "Python", "Java"],
-  tools: ["React", "Node", "Boostrap", "Tensorflow", "VSCode", "Express"],
+  code: ["Typescript", "C++", "Python", "Java", "Sass"],
+  tools: ["React", "Node", "Tensorflow", "VSCode"],
   
-  databases: ["mongo", "PostGres"],
-  
-  architecture: ["Progressive web applications", "Single page applications", "design system pattern"],
-  misc: ["Firebase", "Socket.IO", "Django"]
+  databases: ["mongo", "firebase", "postgresql],
 }
 ```
 
